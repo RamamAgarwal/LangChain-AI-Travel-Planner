@@ -4,11 +4,11 @@ A simple travel itinerary planner using three powerful AI agent frameworks: Lang
 ## Project Structure
 ai-travel-planner \
 ├── langchain \
-│   └── agent.py
+│   └── agent.py \
 ├── crewai \
-│   └── crew.py
+│   └── crew.py \
 ├── pydantic_agent \
-│   └── agent.py
-├── README.md
-└── requirements.txt
+│   └── agent.py \
+├── README.md  
+└── requirements.txt  
 
