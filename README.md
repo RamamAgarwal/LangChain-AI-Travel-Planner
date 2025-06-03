@@ -12,3 +12,12 @@ ai-travel-planner \
 ├── README.md  
 └── requirements.txt  
 
+## Conclusion
+
+Each framework provides a unique approach to building intelligent agents:
+
+LangChain: Fast to prototype with tools
+
+CrewAI: Modular and task-specific collaboration
+
+Pydantic Agents: Strong schema validation for input/output
